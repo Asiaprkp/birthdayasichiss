@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    background: linear-gradient(to right, #ffdde1, #ee9ca7);
+    color: #3a3a3a;
+    padding: 30px 15px;
+}
+
+.page2 {
+    font-family: 'Arial', sans-serif;
+}
+
+.invite-box {
+    background: white;
+    border-radius: 20px;
+    padding: 20px;
+    max-width: 500px;
+    margin: auto;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.invite-box h2 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
